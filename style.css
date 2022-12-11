@@ -45,11 +45,11 @@ body{
 }
 
 .card:nth-child(2){
-    background: url("img1.jpg") center center/cover;
+    background: url(img.jpg) center center/cover;
 }
 
 .card:nth-child(3){
-    background: url("img3.JPG") center center/cover;
+    background: url("img.JPG") center center/cover;
 }
 
 .card h1{
