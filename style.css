@@ -36,7 +36,7 @@ body{
     height: 500px;
     width: 350px;
     margin: 20px;
-    background: url("img1.JPG") center center/cover;
+    background: url("img.jpg") center center/cover;
     border-radius: 10px;
     overflow: hidden;
     position: relative;
@@ -45,7 +45,7 @@ body{
 }
 
 .card:nth-child(2){
-    background: url("img2.JPG") center center/cover;
+    background: url("img1.jpg") center center/cover;
 }
 
 .card:nth-child(3){
